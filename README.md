@@ -1,4 +1,4 @@
-# Mappings between OpenEduHub Disciplines (Schulfächer) and Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer
+# Mappings between "OpenEduHub Disciplines (Schulfächer)" and "Destatis-Systematik der Fächergruppen, Studienbereiche und Studienfächer"
 
 
 SKOS based mappings between:
